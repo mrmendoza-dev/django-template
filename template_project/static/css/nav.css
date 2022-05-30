@@ -56,7 +56,7 @@
 .footer-nav {
     grid-column: 1 / -1;
     grid-row: 3;
-
+    bottom: 0;
     background-color: rgba(40, 40, 40, 0.98);
     color: white;
     padding: 2rem 3rem;

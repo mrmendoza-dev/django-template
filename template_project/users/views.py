@@ -32,8 +32,6 @@ def register(request):
     else:
         form = UserRegisterForm()
 
-
-    context = get_main_context()
     context['form'] = form
 
     return render(request, 'users/register.html', context)
@@ -59,7 +57,6 @@ def profile(request):
     context = {}
     context['u_form'] = u_form
     context['p_form'] = p_form
-    context = get_main_context(context)
 
     return render(request, 'users/profile.html', context)
 
