@@ -1,0 +1,93 @@
+@import './constants.css';
+
+
+
+
+
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+
+
+.flex {
+    display: flex;
+}
+
+
+.inline-text {
+    display: inline-block;
+}
+.block-text {
+    display: block;
+}
+
+.small-text {
+    font-size: 1.6rem;
+}
+
+.col-2 {
+    width: 2%;
+}
+.col-5 {
+    width: 5%;
+}
+.col-10 {
+    width: 10%;
+}
+.col-15 {
+    width: 15%;
+}
+.col-20 {
+    width: 20%;
+}
+
+.text-profit {
+    color: #00ff00;
+}
+.text-loss {
+    color: #ff0000;
+}
+
+
+
+
+
+.banner {
+    width: 100rem;
+}
+.banner-img {
+    width: 100rem;
+    height: 30rem;
+
+}
+
+.avatar {
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0.05);
+}
+
+.avatar-lg {
+    height: 160px;
+    width: 160px;
+    display: inline-block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0.05);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+

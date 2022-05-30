@@ -1,0 +1,68 @@
+@import './constants.css';
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+html {
+  /* font-size: 10px;
+    10px / 16px = 0.625 = 62.5%
+    Percentage of user's browser font-size setting */
+  font-size: 62.5%;
+  
+}
+
+
+
+.default-resolution {
+    /* Default Resolution */
+    width: 1920px;
+    height: 1080px;
+    border: 0.5px solid #0f0;
+    overflow: scroll;
+    overflow-x: hidden;
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.25) ), url("/static/images/neon_1.jpg");
+}
+
+
+
+main {
+    display: grid;
+    grid-template-columns: 30rem 1fr;
+    grid-template-rows: 6rem 20rem 1fr 6rem;
+    row-gap: 1rem;
+    column-gap: 2rem;
+}
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    text-align: center;
+
+    background-color: #000;
+    color: #fff;
+
+    height: 100vh;
+    line-height: 1.25;
+}
+
+
+
+.main-container {
+    grid-column: 1 / -1;
+    grid-row: 2;
+}
+
+
+
+
+
+
+
