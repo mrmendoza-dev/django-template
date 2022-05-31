@@ -67,14 +67,13 @@ html {
 .main-container {
     grid-row: 2;
     grid-column: 1/-1;
-
+    margin: 0 auto;
     width: 90%;
     /* height: 100vh; */
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #000;
-
+    background-color: #444;
 }
 
 /* main wraps the header, body, and footer and declares a grid layout */
