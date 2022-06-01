@@ -146,3 +146,25 @@ LOGIN_REDIRECT_URL = 'index'
 # LOGOUT_REDIRECT_URL = 'users/logout.html'
 
 INTERNAL_IPS = ['127.0.0.1']
+
+
+
+
+# myaccount.google.com/lesssecureapps
+# account.google.com/DisplayUnlockCaptcha
+# myaccount.google.com/apppasswords
+
+# Default for Gmail
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = '587'
+EMAIL_HOST_USER = 'to_email@gmail.com'
+EMAIL_HOST_PASSWORD = 'password'
+EMAIL_USE_TLS = True
+# EMAIL_USE_SSL = False
+
+
+
+
+
+
+
