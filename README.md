@@ -7,6 +7,7 @@ Steven Mendoza <smendoza171@gmail.com>
 
 
 ### Custom Boilerplate for Faster Development
+#### wfwfwfewfwf
 ---
 ### Main Features
 - Updated settings.py
@@ -18,3 +19,5 @@ Steven Mendoza <smendoza171@gmail.com>
 ## TODO
 - Add necessary React files
 - Add Postgres DB info **Check ENV Variables!**
+- Add boilerplate Javascript files
+
