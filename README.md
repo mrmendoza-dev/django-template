@@ -12,7 +12,7 @@
 #### Updated with Commonly Configured Settings
 
 ---
-### Main Features
+### Main Updates
 - Updated settings.py
   - Imported libraries, modules, etc.
 - Initialized static, media
@@ -23,4 +23,4 @@
 - Add necessary React files
 - Add Postgres DB info **Check ENV Variables!**
 - Add boilerplate Javascript files
-
+- Add responsive CSS elements 
