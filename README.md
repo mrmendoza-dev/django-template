@@ -1,5 +1,9 @@
 # Django_Template
-[LinkedIn](https://www.linkedin.com/in/mrmendoza171/) <smendoza171@gmail.com>
+Steven Mendoza <smendoza171@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/mrmendoza171/)
+[GitHub](https://github.com/mrmendoza171)
+
+
 ### Custom Boilerplate for Faster Development
 ---
 ### Main Features
