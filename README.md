@@ -9,5 +9,12 @@ Steven Mendoza <smendoza171@gmail.com>
 ### Custom Boilerplate for Faster Development
 ---
 ### Main Features
-- Updated settings
+- Updated settings.py
+  - Imported libraries, modules, etc.
+- Initialized static, media
+- Created templates and set up initial organization
 - Preset User Apps
+
+## TODO
+- Add necessary React files
+- Add Postgres DB info **Check ENV Variables!**
