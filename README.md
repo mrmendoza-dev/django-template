@@ -1,6 +1,6 @@
 # Django_Template
 
-![Django Logo](https://static.djangoproject.com/img/logos/django-logo-negative.png)
+![Django Logo](https://static.djangoproject.com/img/logos/django-logo-negative.png | height=700)
 
 ### Created By: **Steven Mendoza**  
   > <smendoza171@gmail.com>  
