@@ -4,7 +4,7 @@
 
 ### **Steven Mendoza**  
 > <smendoza171@gmail.com>
-LinkedIn](https://www.linkedin.com/in/mrmendoza171/)
+[LinkedIn](https://www.linkedin.com/in/mrmendoza171/)
 [GitHub](https://github.com/mrmendoza171)  
 
 
